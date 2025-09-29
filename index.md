@@ -16,3 +16,7 @@
 ```java
 String welcome = "Hello, world!";
 ```
+
+- [ ] create a github account
+- [ ] create a test repo
+- [ ] follow through skills video for learning
